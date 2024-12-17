@@ -1,7 +1,7 @@
 {
   "name": "DeepL API App for Slack",
   "description": "Slack app for DeepL Translate API users",
-  "repository": "https://github.com/seratch/deepl-for-slack",
+  "repository": "https://github.com/fumakurata/deepl-for-slack",
   "keywords": [
     "Slack",
     "Slack API",
