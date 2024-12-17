@@ -2,6 +2,7 @@ export const langToReaction: any = {
   en: ":flag-us:",
   ja: ":flag-jp:",
   zh: ":flag-cn:",
+  "zh-TW": ":flag-tw:", // 繁体字 (台湾)
   ko: ":flag-kr:",
   de: ":flag-de:",
   fr: ":flag-fr:",
@@ -31,7 +32,8 @@ export const langToReaction: any = {
 export const langToName: any = {
   en: "English",
   ja: "Japanese",
-  zh: "Chinese",
+  zh: "Chinese",// 簡体字
+  "zh-TW": "Chinese (Traditional)", // 繁体字
   ko: "Korean",
   de: "German",
   fr: "French",
@@ -189,6 +191,7 @@ export const reactionToLang: any = {
   tf: "fr",
   tg: "fr",
   tt: "en",
+  tw: "zh-TW",     // 繁体字
   ug: "en",
   um: "en",
   us: "en",
