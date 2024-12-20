@@ -28,7 +28,7 @@
     },
     "DEEPL_RUNNER_LANGUAGES": {
       "description": "Enabled target languages in modals (https://www.deepl.com/docs-api/translating-text/request/)",
-      "value": "en,ja,zh,de,fr,it,es,nl,pl,pt,ru"
+      "value": "en,ja,zh-HANS,zh-HANT,de,fr,it,es,nl,pl,pt,ru"
     },
     "SLACK_LOG_LEVEL": {
       "description": "Bolt App Log Level (debug/info/warn/error)",
